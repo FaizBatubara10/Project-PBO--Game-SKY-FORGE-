@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=shild
+comment1.params=
+comment1.target=shild()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=player
+comment3.target=void\ onCollect(p2)
+numComments=4

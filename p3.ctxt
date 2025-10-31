@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=p3
+comment1.params=
+comment1.target=p3()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ moved()
+comment4.params=
+comment4.target=void\ shoot()
+comment5.params=
+comment5.target=void\ destroyed()
+comment6.params=
+comment6.target=void\ Damaged()
+comment7.params=
+comment7.target=int\ getScoreValue()
+numComments=8

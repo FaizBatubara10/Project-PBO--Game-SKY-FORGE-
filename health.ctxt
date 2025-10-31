@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=health
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ health\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=health()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ health\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=hp
+comment2.target=void\ setHealth(int)
+comment3.params=
+comment3.target=int\ getHealth()
+numComments=4
